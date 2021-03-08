@@ -2,12 +2,14 @@ Class Student {
 
  public :
    
+ // Varibale Declaration 
    int id;
    string name ;
    double percentage;
    vector<string> skills ;
   
-
+// Constructor Intilization 
+ 
    Student() {
    }
    
